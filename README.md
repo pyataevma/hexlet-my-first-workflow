@@ -1,0 +1,1 @@
+Hexlet CI training repository
